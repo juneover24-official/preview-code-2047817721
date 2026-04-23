@@ -1,44 +1,8 @@
 {
   "qq_number": "2047817721",
   "group_number": "1063170095",
-  "updated_at": "2026-04-22T16:19:41.642653",
+  "updated_at": "2026-04-23T15:52:38.902908",
   "skins": [
-    {
-      "name": "心下喵喵泪",
-      "file": "心下喵喵泪.bds",
-      "thumb": "心下喵喵泪.bds_py_26_light_thumb.png",
-      "full": "心下喵喵泪.bds_py_26_light.png"
-    },
-    {
-      "name": "# 古早人偶誤入少女夢境♡…",
-      "file": "古早人偶誤入少女夢境.bds",
-      "thumb": "古早人偶誤入少女夢境.bds_py_26_light_thumb.png",
-      "full": "古早人偶誤入少女夢境.bds_py_26_light.png"
-    },
-    {
-      "name": "白草莓缎结",
-      "file": "白草莓缎结.bds",
-      "thumb": "白草莓缎结.bds_py_26_light_thumb.png",
-      "full": "白草莓缎结.bds_py_26_light.png"
-    },
-    {
-      "name": "猫猫统治世界",
-      "file": "猫猫统治世界.bds",
-      "thumb": "猫猫统治世界.bds_py_26_light_thumb.png",
-      "full": "猫猫统治世界.bds_py_26_light.png"
-    },
-    {
-      "name": "奶油乳酪碗",
-      "file": "Ya-奶油乳酪碗.bds",
-      "thumb": "Ya-奶油乳酪碗.bds_py_26_light_thumb.png",
-      "full": "Ya-奶油乳酪碗.bds_py_26_light.png"
-    },
-    {
-      "name": "纯萌心事",
-      "file": "纯萌心事.bds",
-      "thumb": "纯萌心事.bds_py_26_light_thumb.png",
-      "full": "纯萌心事.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "猫猫统治世界.bdi",
@@ -65,6 +29,12 @@
     },
     {
       "name": "乐妍贴纸底包1",
+      "file": "纯白幻想.bdi",
+      "thumb": "纯白幻想.bdi_py_26_light_thumb.png",
+      "full": "纯白幻想.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
       "file": "纯萌心事.bdi",
       "thumb": "纯萌心事.bdi_py_26_light_thumb.png",
       "full": "纯萌心事.bdi_py_26_light.png"
@@ -74,6 +44,48 @@
       "file": "Ya-奶油乳酪碗.bdi",
       "thumb": "Ya-奶油乳酪碗.bdi_py_26_light_thumb.png",
       "full": "Ya-奶油乳酪碗.bdi_py_26_light.png"
+    },
+    {
+      "name": "心下喵喵泪",
+      "file": "心下喵喵泪.bds",
+      "thumb": "心下喵喵泪.bds_py_26_light_thumb.png",
+      "full": "心下喵喵泪.bds_py_26_light.png"
+    },
+    {
+      "name": "# 古早人偶誤入少女夢境♡…",
+      "file": "古早人偶誤入少女夢境.bds",
+      "thumb": "古早人偶誤入少女夢境.bds_py_26_light_thumb.png",
+      "full": "古早人偶誤入少女夢境.bds_py_26_light.png"
+    },
+    {
+      "name": "纯白幻想",
+      "file": "纯白幻想.bds",
+      "thumb": "纯白幻想.bds_py_26_light_thumb.png",
+      "full": "纯白幻想.bds_py_26_light.png"
+    },
+    {
+      "name": "白草莓缎结",
+      "file": "白草莓缎结.bds",
+      "thumb": "白草莓缎结.bds_py_26_light_thumb.png",
+      "full": "白草莓缎结.bds_py_26_light.png"
+    },
+    {
+      "name": "猫猫统治世界",
+      "file": "猫猫统治世界.bds",
+      "thumb": "猫猫统治世界.bds_py_26_light_thumb.png",
+      "full": "猫猫统治世界.bds_py_26_light.png"
+    },
+    {
+      "name": "奶油乳酪碗",
+      "file": "Ya-奶油乳酪碗.bds",
+      "thumb": "Ya-奶油乳酪碗.bds_py_26_light_thumb.png",
+      "full": "Ya-奶油乳酪碗.bds_py_26_light.png"
+    },
+    {
+      "name": "纯萌心事",
+      "file": "纯萌心事.bds",
+      "thumb": "纯萌心事.bds_py_26_light_thumb.png",
+      "full": "纯萌心事.bds_py_26_light.png"
     }
   ]
 }
