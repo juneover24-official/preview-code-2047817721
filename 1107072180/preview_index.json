@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1107072180",
-  "updated_at": "2026-05-28T17:46:47+00:00",
+  "updated_at": "2026-05-29T04:28:47+00:00",
   "skins": [
     {
       "name": "一勺奶油夢",
@@ -20,6 +20,12 @@
       "file": "ꗃレース牛乳.bdi",
       "thumb": "ꗃレース牛乳.bdi_py_26_light_thumb.png",
       "full": "ꗃレース牛乳.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "ꗃレース牛乳",
+      "file": "ꗃレース牛乳.bds",
+      "thumb": "ꗃレース牛乳.bds_py_26_light_thumb.png",
+      "full": "ꗃレース牛乳.bds_py_26_light_thumb.png"
     }
   ]
 }
