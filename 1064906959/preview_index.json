@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-04-23T15:52:35.626974",
+  "updated_at": "2026-05-31T02:02:47+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -452,6 +452,12 @@
       "file": "咪就介么萌.bds",
       "thumb": "咪就介么萌.bds_py_26_light_thumb.png",
       "full": "咪就介么萌.bds_py_26_light.png"
+    },
+    {
+      "name": "宅-灰色地带",
+      "file": "18の灰色地带.bds",
+      "thumb": "18の灰色地带.bds_py_26_light_thumb.png",
+      "full": "18の灰色地带.bds_py_26_light_thumb.png"
     }
   ]
 }
