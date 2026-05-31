@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-05-31T02:03:02+00:00",
+  "updated_at": "2026-05-31T08:39:30+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -464,6 +464,12 @@
       "file": "18の灰色地带.bdi",
       "thumb": "18の灰色地带.bdi_py_26_light_thumb.png",
       "full": "18の灰色地带.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "完美偶像的理由",
+      "file": "完美偶像的理由.bdi",
+      "thumb": "完美偶像的理由.bdi_py_26_light_thumb.png",
+      "full": "完美偶像的理由.bdi_py_26_light_thumb.png"
     }
   ]
 }
