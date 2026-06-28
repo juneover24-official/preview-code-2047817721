@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1107072180",
-  "updated_at": "2026-06-28T16:43:47+00:00",
+  "updated_at": "2026-06-28T16:50:45+00:00",
   "skins": [
     {
       "name": "一勺奶油夢",
@@ -80,6 +80,12 @@
       "file": "草莓缎带信.bdi",
       "thumb": "草莓缎带信.bdi_py_26_light_thumb.png",
       "full": "草莓缎带信.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "草莓缎带信",
+      "file": "草莓缎带信.bds",
+      "thumb": "草莓缎带信.bds_py_26_light_thumb.png",
+      "full": "草莓缎带信.bds_py_26_light_thumb.png"
     }
   ]
 }
