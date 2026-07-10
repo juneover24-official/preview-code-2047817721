@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-07-10T11:14:06+00:00",
+  "updated_at": "2026-07-10T15:58:15+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -506,6 +506,12 @@
       "file": "角落童话萌物.bdi",
       "thumb": "角落童话萌物.bdi_py_26_light_thumb.png",
       "full": "角落童话萌物.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "角落童话萌物",
+      "file": "角落童话萌物.bds",
+      "thumb": "角落童话萌物.bds_py_26_light_thumb.png",
+      "full": "角落童话萌物.bds_py_26_light_thumb.png"
     }
   ]
 }
