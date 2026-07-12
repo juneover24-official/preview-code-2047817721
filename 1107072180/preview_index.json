@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1107072180",
-  "updated_at": "2026-07-12T02:11:03+00:00",
+  "updated_at": "2026-07-12T08:20:22+00:00",
   "skins": [
     {
       "name": "一勺奶油夢",
@@ -116,6 +116,12 @@
       "file": "水色奶油心脆.bdi",
       "thumb": "水色奶油心脆.bdi_py_26_light_thumb.png",
       "full": "水色奶油心脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "水色奶油心",
+      "file": "水色奶油心az闷.bds",
+      "thumb": "水色奶油心az闷.bds_py_26_light_thumb.png",
+      "full": "水色奶油心az闷.bds_py_26_light_thumb.png"
     }
   ]
 }
