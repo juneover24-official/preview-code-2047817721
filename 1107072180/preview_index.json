@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1107072180",
-  "updated_at": "2026-07-17T08:46:18+00:00",
+  "updated_at": "2026-07-18T16:25:25+00:00",
   "skins": [
     {
       "name": "一勺奶油夢",
@@ -140,6 +140,12 @@
       "file": "doll感遊園兔脆.bdi",
       "thumb": "doll感遊園兔脆.bdi_py_26_light_thumb.png",
       "full": "doll感遊園兔脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "doll感遊園兔",
+      "file": "doll感遊園兔az脆.bds",
+      "thumb": "doll感遊園兔az脆.bds_py_26_light_thumb.png",
+      "full": "doll感遊園兔az脆.bds_py_26_light_thumb.png"
     }
   ]
 }
