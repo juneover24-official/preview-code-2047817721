@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1063170095",
-  "updated_at": "2026-07-22T04:02:15+00:00",
+  "updated_at": "2026-07-22T04:17:14+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -92,6 +92,12 @@
       "file": "冷脸呆az.bds",
       "thumb": "冷脸呆az.bds_py_26_light_thumb.png",
       "full": "冷脸呆az.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "♡⦁֊⦁冷脸呆",
+      "file": "冷脸呆az闷.bds",
+      "thumb": "冷脸呆az闷.bds_py_26_light_thumb.png",
+      "full": "冷脸呆az闷.bds_py_26_light_thumb.png"
     }
   ]
 }
