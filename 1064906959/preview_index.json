@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-07-25T21:32:48+00:00",
+  "updated_at": "2026-07-25T21:34:21+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -524,6 +524,12 @@
       "file": "我的geass是被爱.bdi",
       "thumb": "我的geass是被爱.bdi_py_26_light_thumb.png",
       "full": "我的geass是被爱.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "喵喵气",
+      "file": "喵喵气.bdi",
+      "thumb": "喵喵气.bdi_py_26_light_thumb.png",
+      "full": "喵喵气.bdi_py_26_light_thumb.png"
     }
   ]
 }
