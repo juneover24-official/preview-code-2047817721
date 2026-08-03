@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-08-02T00:55:18+00:00",
+  "updated_at": "2026-08-03T10:52:02+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -542,6 +542,12 @@
       "file": "失忆症.bdi",
       "thumb": "失忆症.bdi_py_26_light_thumb.png",
       "full": "失忆症.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "失忆症",
+      "file": "失忆症.bds",
+      "thumb": "失忆症.bds_py_26_light_thumb.png",
+      "full": "失忆症.bds_py_26_light_thumb.png"
     }
   ]
 }
