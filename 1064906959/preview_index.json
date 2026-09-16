@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-08-03T10:52:02+00:00",
+  "updated_at": "2026-09-16T09:22:48+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -548,6 +548,13 @@
       "file": "失忆症.bds",
       "thumb": "失忆症.bds_py_26_light_thumb.png",
       "full": "失忆症.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "真的不再依赖哥哥吗",
+      "file": "我不想面对没有你的世界r.bds",
+      "thumb": "我不想面对没有你的世界r.bds_py_26_light_thumb.png",
+      "full": "我不想面对没有你的世界r.bds_py_26_light_thumb.png",
+      "file_id": "7854ebcfa531c19e6f641a607c1f1b34"
     }
   ]
 }
