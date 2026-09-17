@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-09-17T04:39:46+00:00",
+  "updated_at": "2026-09-17T08:42:00+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -589,6 +589,13 @@
       "thumb": "侑子小姐与花.bdi_py_26_light_thumb.png",
       "full": "侑子小姐与花.bdi_py_26_light_thumb.png",
       "file_id": "b911e8a029832b971af3cda2f3b7655b"
+    },
+    {
+      "name": "侑子小姐与花",
+      "file": "侑子小姐与花.bds",
+      "thumb": "侑子小姐与花.bds_py_26_light_thumb.png",
+      "full": "侑子小姐与花.bds_py_26_light_thumb.png",
+      "file_id": "e0218e6c75dce11efac0874810d906c9"
     }
   ]
 }
