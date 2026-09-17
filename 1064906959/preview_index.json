@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-09-17T04:24:00+00:00",
+  "updated_at": "2026-09-17T04:27:59+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -575,6 +575,13 @@
       "thumb": "地狱之歌.bds_py_26_light_thumb.png",
       "full": "地狱之歌.bds_py_26_light_thumb.png",
       "file_id": "462d4189166f00b40a22583f9f12f06c"
+    },
+    {
+      "name": "地狱之歌",
+      "file": "地狱之歌彩.bdi",
+      "thumb": "地狱之歌彩.bdi_py_26_light_thumb.png",
+      "full": "地狱之歌彩.bdi_py_26_light_thumb.png",
+      "file_id": "4a36ba32797e10250da17ad6d2d30f57"
     }
   ]
 }
