@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-09-20T07:23:16+00:00",
+  "updated_at": "2026-09-20T07:26:25+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -624,6 +624,13 @@
       "thumb": "龙女仆托尔.bds_py_26_light_thumb.png",
       "full": "龙女仆托尔.bds_py_26_light_thumb.png",
       "file_id": "a6ac3a95aec89de1f6c5173b3cf22f3c"
+    },
+    {
+      "name": "我的世界在下雨",
+      "file": "我的世界在下雨.bds",
+      "thumb": "我的世界在下雨.bds_py_26_light_thumb.png",
+      "full": "我的世界在下雨.bds_py_26_light_thumb.png",
+      "file_id": "e4dc1d2835d7b626d9f6dbd6a8465be5"
     }
   ]
 }
