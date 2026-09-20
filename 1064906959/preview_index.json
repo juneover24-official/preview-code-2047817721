@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-09-20T07:29:16+00:00",
+  "updated_at": "2026-09-20T13:58:17+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -638,6 +638,13 @@
       "thumb": "完美偶像的理由.bds_py_26_light_thumb.png",
       "full": "完美偶像的理由.bds_py_26_light_thumb.png",
       "file_id": "78cecd49af416a3cbf1e61d9d1650d4b"
+    },
+    {
+      "name": "于我而言特别的你",
+      "file": "于我而言特别的你融.bdi",
+      "thumb": "于我而言特别的你融.bdi_py_26_light_thumb.png",
+      "full": "于我而言特别的你融.bdi_py_26_light_thumb.png",
+      "file_id": "f5be27a65424a95a5dbdbfd60031f763"
     }
   ]
 }
