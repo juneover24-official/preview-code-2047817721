@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-09-20T14:05:12+00:00",
+  "updated_at": "2026-09-20T14:06:12+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -666,6 +666,13 @@
       "thumb": "于我而言特别的你彩.bds_py_26_light_thumb.png",
       "full": "于我而言特别的你彩.bds_py_26_light_thumb.png",
       "file_id": "97e6f7d57743354d8ed063f4f6dd25d3"
+    },
+    {
+      "name": "于我而言特别的你",
+      "file": "于我而言特别的你彩.bdi",
+      "thumb": "于我而言特别的你彩.bdi_py_26_light_thumb.png",
+      "full": "于我而言特别的你彩.bdi_py_26_light_thumb.png",
+      "file_id": "5e3eb151634e23e6f2bed8ad0849c291"
     }
   ]
 }
