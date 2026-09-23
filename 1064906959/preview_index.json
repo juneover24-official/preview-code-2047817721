@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-09-23T03:52:40+00:00",
+  "updated_at": "2026-09-23T07:48:08+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -694,6 +694,13 @@
       "thumb": "好想為你擋住這世上所有的壞r.bdi_py_26_light_thumb.png",
       "full": "好想為你擋住這世上所有的壞r.bdi_py_26_light_thumb.png",
       "file_id": "7e6d22b0bd5e218ec7dbfe7879b9e81f"
+    },
+    {
+      "name": "审咪积累",
+      "file": "审咪积累.bds",
+      "thumb": "审咪积累.bds_py_26_light_thumb.png",
+      "full": "审咪积累.bds_py_26_light_thumb.png",
+      "file_id": "2374da08687eaf9ae63e57210ca36d4f"
     }
   ]
 }
