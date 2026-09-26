@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-09-26T03:27:48+00:00",
+  "updated_at": "2026-09-26T03:28:43+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -715,6 +715,13 @@
       "thumb": "人类一败兔地彩.bds_py_26_light_thumb.png",
       "full": "人类一败兔地彩.bds_py_26_light_thumb.png",
       "file_id": "dc732c757b1f7be42885935a57d269e4"
+    },
+    {
+      "name": "人类一败兔地",
+      "file": "人类一败兔地.bdi",
+      "thumb": "人类一败兔地.bdi_py_26_light_thumb.png",
+      "full": "人类一败兔地.bdi_py_26_light_thumb.png",
+      "file_id": "dcaf790bc353023b588d3e810bb42f40"
     }
   ]
 }
