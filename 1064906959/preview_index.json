@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-10-02T02:31:55+00:00",
+  "updated_at": "2026-10-02T06:40:33+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -748,6 +748,13 @@
       "file": "你会一直爱我吗彩.bdi",
       "thumb": "你会一直爱我吗彩.bdi_py_26_light_thumb.png",
       "full": "你会一直爱我吗彩.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "你会一直爱我吗",
+      "file": "你会一直爱我吗彩.bds",
+      "thumb": "你会一直爱我吗彩.bds_py_26_light_thumb.png",
+      "full": "你会一直爱我吗彩.bds_py_26_light_thumb.png",
+      "file_id": "7dde09c23aedb1b2a7ad479d799fcbd0"
     }
   ]
 }
