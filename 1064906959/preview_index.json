@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-10-02T16:15:49+00:00",
+  "updated_at": "2026-10-02T23:50:14+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -762,6 +762,13 @@
       "thumb": "或許会有結痂的那天.bdi_py_26_light_thumb.png",
       "full": "或許会有結痂的那天.bdi_py_26_light_thumb.png",
       "file_id": "255bf470426946efe3028dfe65bba57c"
+    },
+    {
+      "name": "暴力熊汎用兔ovo",
+      "file": "暴力熊汎用兔ovo彩.bds",
+      "thumb": "暴力熊汎用兔ovo彩.bds_py_26_light_thumb.png",
+      "full": "暴力熊汎用兔ovo彩.bds_py_26_light_thumb.png",
+      "file_id": "b71010aeb7413f55ee8a27d072e3354c"
     }
   ]
 }
