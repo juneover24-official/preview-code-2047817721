@@ -1,7 +1,7 @@
 {
   "qq_number": "2047817721",
   "group_number": "1064906959",
-  "updated_at": "2026-10-02T23:50:14+00:00",
+  "updated_at": "2026-10-03T10:05:28+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -769,6 +769,13 @@
       "thumb": "暴力熊汎用兔ovo彩.bds_py_26_light_thumb.png",
       "full": "暴力熊汎用兔ovo彩.bds_py_26_light_thumb.png",
       "file_id": "b71010aeb7413f55ee8a27d072e3354c"
+    },
+    {
+      "name": "月咏歌呗",
+      "file": "月咏歌呗.bds",
+      "thumb": "月咏歌呗.bds_py_26_light_thumb.png",
+      "full": "月咏歌呗.bds_py_26_light_thumb.png",
+      "file_id": "1aa9a16a79cb4b61f7e4cd8fe964b82b"
     }
   ]
 }
